@@ -29,7 +29,7 @@ public class Ejercicios {
                     mensaje="El dia toca que coloco no existe";
                 }
                 //datos de salida 
-                System.out.println("Ese dia toca el curso de: "+mensaje);
+                System.out.println("Ese dia toca el curso de: "+mensaje); 
                
     }
     public static void main(String[] args) {
